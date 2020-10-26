@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://gtechmedia-dev-ed.lightning.force.com/",
+  "sourceApiVersion": "50.0"
+}

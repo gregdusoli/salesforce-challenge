@@ -1,0 +1,14 @@
+<template>
+  <lightning-card title="Everis Challenge" icon-name="standard:record">
+    <div class="slds-m-around_medium">
+      <lightning-record-form
+        record-id={recordId}
+        object-api-name={objectApiName}
+        fields={fields}
+        mode="edit"
+      >
+        <lightning-message-service></lightning-message-service>
+      </lightning-record-form>
+    </div>
+  </lightning-card>
+</template>
